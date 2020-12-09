@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void comp(int a[5], int n)
+void comp(int a[], int n)
 {
 	int i = 0;
 	for (i = 0; i < n; ++i)
